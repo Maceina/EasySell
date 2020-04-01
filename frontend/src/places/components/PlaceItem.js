@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 
 import "./PlaceItem.css";
 import Card from "../../shared/components/UIElements/Card";
