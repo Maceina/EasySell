@@ -6,7 +6,7 @@ const bodyParser = require('body-parser') //Installs body-parser
 require('dotenv').config(); //Configure dotenv
 const passport = require('passport') //Install Passport
 const path = require('path');
-//1
+//12
 const port = process.env.PORT //Port set from environment variables 
 const uri = process.env.MONGO_URI //URI to connect to mongoDB
 mongoose.connect(uri, {useNewUrlParser: true, useUnifiedTopology: true}); //Sets up connection to mongoDB database
