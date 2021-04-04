@@ -31,4 +31,3 @@ To deploy on your own machine, you will require a MongoDB Atlas Cluster, which y
 ![Alt text](/images/3.png?raw=true "Title")
 ![Alt text](/images/4.png?raw=true "Title")
 ![Alt text](/images/5.png?raw=true "Title")
-![Alt text](/images/6.png?raw=true "Title")
