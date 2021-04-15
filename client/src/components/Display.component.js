@@ -7,7 +7,7 @@ import App from "../App";
 //Display class displays the current inventory
 export default class Display extends React.Component{ 
   
-  //Get props from constructor
+  //Get props from constructo
   constructor(props){ 
     super(props);
   }
