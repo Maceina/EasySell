@@ -6,7 +6,7 @@ const { response } = require('express')
 const jwt = require('jsonwebtoken')
 require('dotenv').config()
 
-//Variables
+//Variabless
 var todaysTotal = 0;
 let todaysDate = new Date()
 let day2 = new Date()
