@@ -1,3 +1,10 @@
+# Showcase
+![Alt text](/images/1.png?raw=true "Title")
+![Alt text](/images/2.png?raw=true "Title")
+![Alt text](/images/3.png?raw=true "Title")
+![Alt text](/images/4.png?raw=true "Title")
+![Alt text](/images/5.png?raw=true "Title")
+
 # EasySell
 
 This is EasySell, it's a free, web-based point-of-sale system.
@@ -24,10 +31,3 @@ To deploy on your own machine, you will require a MongoDB Atlas Cluster, which y
 3. jwt
 4. mongoDB
 5. passport
-
-# Showcase
-![Alt text](/images/1.png?raw=true "Title")
-![Alt text](/images/2.png?raw=true "Title")
-![Alt text](/images/3.png?raw=true "Title")
-![Alt text](/images/4.png?raw=true "Title")
-![Alt text](/images/5.png?raw=true "Title")
